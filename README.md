@@ -72,40 +72,6 @@ If the network connection is poor, you can manually download these three models 
 ### Known Issues
 * Gradio’s streaming audio playback can be unstable. The audio quality will be higher when clicking on the audio in the dialogue box after generation is complete.
 
-## Examples
-We provide some dialogue cases for GLM-4-Voice, including emotion control, speech rate alteration, dialect generation, etc. (The examples are in Chinese.)
-
-* Use a gentle voice to guide me to relax
-
-https://github.com/user-attachments/assets/4e3d9200-076d-4c28-a641-99df3af38eb0
-
-* Use an excited voice to commentate a football match
-
-https://github.com/user-attachments/assets/0163de2d-e876-4999-b1bc-bbfa364b799b
-
-* Tell a ghost story with a mournful voice
-
-https://github.com/user-attachments/assets/a75b2087-d7bc-49fa-a0c5-e8c99935b39a
-
-* Introduce how cold winter is with a Northeastern dialect
-
-https://github.com/user-attachments/assets/91ba54a1-8f5c-4cfe-8e87-16ed1ecf4037
-
-* Say "Eat grapes without spitting out the skins" in Chongqing dialect
-
-https://github.com/user-attachments/assets/7eb72461-9e84-4d8e-9c58-1809cf6a8a9b
-
-* Recite a tongue twister with a Beijing accent
-
-https://github.com/user-attachments/assets/a9bb223e-9c0a-440d-8537-0a7f16e31651
-
-  * Increase the speech rate
-
-https://github.com/user-attachments/assets/c98a4604-366b-4304-917f-3c850a82fe9f
-
-  * Even faster
-
-https://github.com/user-attachments/assets/d5ff0815-74f8-4738-b0f1-477cfc8dcc2d
 
 ## Acknowledgements
 

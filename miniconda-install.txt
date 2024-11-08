@@ -1,0 +1,1 @@
+install miniconda on your linux machine manually and then run it on the glm environment.

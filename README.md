@@ -1,6 +1,6 @@
 # GLM-4-Voice
 
-GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
+GLM-4-Voice is an end-to-end voice. GLM-4-Voice can directly understand and generate English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
 ## Model Architecture
 
@@ -19,9 +19,6 @@ A more detailed technical report will be published later.
 | GLM-4-Voice-Tokenizer | Speech Tokenizer | [🤗 Huggingface](https://huggingface.co/THUDM/glm-4-voice-tokenizer) |
 |    GLM-4-Voice-9B     |    Chat Model    |    [🤗 Huggingface](https://huggingface.co/THUDM/glm-4-voice-9b)     |
 |  GLM-4-Voice-Decoder  |  Speech Decoder  |  [🤗 Huggingface](https://huggingface.co/THUDM/glm-4-voice-decoder)  |
-
-## Usage
-We provide a Web Demo that can be launched directly. Users can input speech or text, and the model will respond with both speech and text.
 
 ![](resources/web_demo.png)
 
